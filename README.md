@@ -5,9 +5,9 @@ Full stack developer with interest in ML & Data Science
 -------------------------------------------------------
 
 While I just finished school (Fontys Bachelor ICT & Data Science, Februari 2022), I already have 6+ years in software engineering. I have worked for several companies as a Junior Software Engineer, but mainly in the field of Building Automation Systems (BMS):
-- Webeasy (5 years)
-- Facilicom - Breijer (2 years including internship)
-- Darwin - Smart Building Software Solutions (currently)
+- [Webeasy (5 years)](https://www.webeasy.nl)
+- [Facilicom - Breijer (2 years including internship)](https://breijer.nl)
+- [Darwin - Smart Building Software Solutions (currently)](https://valuethefuture.com)
 
 I specialise myself as a full stack developer in Building Automation & Automatic Insulin Dosin (Diabetes treatment).
 
@@ -27,3 +27,9 @@ I specialise myself as a full stack developer in Building Automation & Automatic
 <a href="http://www.github.com/bastiaanv"><img src="https://github-readme-stats.vercel.app/api?username=bastiaanv&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="bastiaanv's GitHub stats" /></a>
 
 <a href="http://www.github.com/bastiaanv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bastiaanv&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### My WakaTime Stats
+
+<img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/0357d93d-927d-4fd6-8a80-bdc9d434d56b.svg" height="400" />
+
+<img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/149495c0-30d3-4a83-8aeb-b84e21d24565.svg" />

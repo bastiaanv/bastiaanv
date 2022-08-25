@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer with interest in ML & Data Science
 -------------------------------------------------------
 
-While I just finished school (Bachelor ICT & Data Science, Februari 2022), I already have 6+ years in software engineering. I have worked for several companies as a Junior Software Engineer, but mainly in the field of Building Automation Systems (BMS):
+While I just finished school (Fontys Bachelor ICT & Data Science, Februari 2022), I already have 6+ years in software engineering. I have worked for several companies as a Junior Software Engineer, but mainly in the field of Building Automation Systems (BMS):
 - Webeasy (5 years)
 - Facilicom - Breijer (2 years including internship)
 - Dawrin Smart Building Software Solutions (currently)

@@ -10,7 +10,7 @@ While I just finished school (Fontys Bachelor ICT & Data Science, Februari 2022)
 - [IXON (graduation project in ICT & Data Science](https://www.ixon.cloud)
 - [Darwin - Smart Building Software Solutions (currently)](https://valuethefuture.com)
 
-I specialise myself as a full stack developer in Building Automation & Automatic Insulin Dosin (Diabetes treatment).
+I specialise myself as a full stack developer:
 
 * 🌍  I'm based in Eindhoven
 * ✉️  You can contact me at [verhaar.bastiaan@gmail.com](mailto:verhaar.bastiaan@gmail.com)

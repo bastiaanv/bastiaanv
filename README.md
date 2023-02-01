@@ -8,14 +8,14 @@ While I just finished school (Fontys Bachelor ICT & Data Science, Februari 2022)
 - [Webeasy (5 years)](https://www.webeasy.nl)
 - [Facilicom - Breijer (2 years including internship)](https://breijer.nl)
 - [IXON (graduation project in ICT & Data Science)](https://www.ixon.cloud)
-- [Darwin - Smart Building Software Solutions (1 year)](https://valuethefuture.com)
-- [Scenius (currently)](https://scenius.nl)
+- [Darwin - Smart Building Software Solutions (1 year - currently)](https://valuethefuture.com)
+- [Scenius (Comming soon)](https://scenius.nl)
 
 I specialise myself as a full stack developer:
 
 * 🌍  I'm based in Eindhoven
 * ✉️  You can contact me at [verhaar.bastiaan@gmail.com](mailto:verhaar.bastiaan@gmail.com)
-* 🚀  I'm currently working at [DARWIN - Smartbuilding Software Solutions](http://valuethefuture.com)
+* 🚀  I'm currently working at [Darwin - Smart Building Software Solutions](https://valuethefuture.com)
 
 ### Skills
 

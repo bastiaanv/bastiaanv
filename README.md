@@ -20,6 +20,15 @@ I specialise myself as a full stack developer:
 ### My weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+C#               1 hr 59 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+TypeScript       1 hr 38 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Markdown         1 hr 34 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Swift            1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+PHP              1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Socials

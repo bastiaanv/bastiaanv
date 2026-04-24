@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bastiaan Verhaar
 ========================================================================================================================================
 
-Full-stack developer & active community member of DIY-diabetes
+Full-stack developer & Community member of OSAID
 -------------------------------------------------------
 
 While I just finished school (Fontys Bachelor ICT & Data Science, February 2022), I already have 6+ years in software engineering. I have worked for several companies as a Junior Software Engineer, but mainly in the field of Building Management Systems (BMS) & mPOS (Payments):
@@ -37,8 +37,6 @@ PHP                    37 hrs 26 mins        █▒░░░░░░░░░�
 
 <img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/149495c0-30d3-4a83-8aeb-b84e21d24565.svg" />
 
-
-
 ### My GitHub Stats
 
 <a href="http://www.github.com/bastiaanv"><img src="https://github-readme-stats.vercel.app/api?username=bastiaanv&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="bastiaanv's GitHub stats" /></a>
@@ -46,4 +44,7 @@ PHP                    37 hrs 26 mins        █▒░░░░░░░░░�
 <a href="http://www.github.com/bastiaanv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bastiaanv&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/bastiaanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bastiaan-verhaar-46a6591a6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.github.com/bastiaanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
+<a href="https://www.linkedin.com/in/bastiaan-verhaar-46a6591a6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>

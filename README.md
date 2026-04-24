@@ -17,7 +17,9 @@ I specialise myself as a full stack developer:
 * ✉️  You can contact me at [verhaar.bastiaan@gmail.com](mailto:verhaar.bastiaan@gmail.com)
 * 🚀  I'm currently working at [Scenius](https://scenius.nl)
 
-### My weekly development breakdown
+### Wakatime Stats
+
+#### Development breakdown past 6 months
 
 <!--START_SECTION:waka-->
 
@@ -31,8 +33,11 @@ PHP                    37 hrs 26 mins        █▒░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Socials
-<p align="left"> <a href="https://www.github.com/bastiaanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bastiaan-verhaar-46a6591a6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+#### Timeline
+
+<img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/149495c0-30d3-4a83-8aeb-b84e21d24565.svg" />
+
+
 
 ### My GitHub Stats
 
@@ -40,8 +45,5 @@ PHP                    37 hrs 26 mins        █▒░░░░░░░░░�
 
 <a href="http://www.github.com/bastiaanv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bastiaanv&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### My WakaTime Stats
-
-<img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/0357d93d-927d-4fd6-8a80-bdc9d434d56b.svg" height="400" />
-
-<img src="https://wakatime.com/share/@a070de6b-28d2-476d-a6ed-23cd5c1dcbd3/149495c0-30d3-4a83-8aeb-b84e21d24565.svg" />
+### Socials
+<p align="left"> <a href="https://www.github.com/bastiaanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bastiaan-verhaar-46a6591a6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

@@ -45,6 +45,4 @@ PHP                    37 hrs 26 mins        █▒░░░░░░░░░�
 
 ### Socials
 
-<a href="https://www.github.com/bastiaanv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
 <a href="https://www.linkedin.com/in/bastiaan-verhaar-46a6591a6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>

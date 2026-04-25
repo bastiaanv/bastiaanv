@@ -4,16 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer & Community member of OSAID
 -------------------------------------------------------
 
-While I just finished school (Fontys Bachelor ICT & Data Science, February 2022), I already have 6+ years in software engineering. I have worked for several companies as a Junior Software Engineer, but mainly in the field of Building Management Systems (BMS) & mPOS (Payments):
+Full-stack developer with a strong focus on mobile platforms, specialising in React Native. Experienced in delivering end-to-end solutions, from concept and UI/UX Design to production and maintenance, using technologies like C#, Kubernetes, and React-Native/Native mobile development.
+
+#### Work experience:
+
 - [Webeasy (5 years)](https://www.webeasy.nl)
-- [Facilicom - Breijer (2 years including internship)](https://breijer.nl)
+- [Facilicom - Breijer (Internship)](https://breijer.nl)
 - [IXON (graduation project in ICT & Data Science)](https://www.ixon.cloud)
-- [Darwin - Smart Building Software Solutions (1 year)](https://valuethefuture.com)
 - [Scenius (Currently)](https://scenius.nl)
 
 I specialise myself as a full stack developer:
 
-* 🌍  I'm based in Eindhoven
+* 🌍  I'm based in Eindhoven (The Netherlands)
+* 🦾  Community member of OSAID (Open-Source Automated Insulin Delivery) - [Trio](https://github.com/nightscout/Trio)
 * ✉️  You can contact me at [verhaar.bastiaan@gmail.com](mailto:verhaar.bastiaan@gmail.com)
 * 🚀  I'm currently working at [Scenius](https://scenius.nl)
 

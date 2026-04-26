@@ -27,11 +27,11 @@ I specialise myself as a full stack developer:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             172 hrs 16 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-Swift                  135 hrs 39 mins       █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-Java                   63 hrs 23 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Other                  43 hrs 56 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-PHP                    37 hrs 26 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+TypeScript             171 hrs 59 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Swift                  136 hrs 43 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Java                   62 hrs 36 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other                  44 hrs 21 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+PHP                    37 hrs 36 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->

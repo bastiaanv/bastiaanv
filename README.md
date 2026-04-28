@@ -16,7 +16,7 @@ Full-stack developer with a strong focus on mobile platforms, specialising in Re
 I specialise myself as a full stack developer:
 
 * 🌍  I'm based in Eindhoven (The Netherlands)
-* 🦾  Community member of OSAID (Open-Source Automated Insulin Delivery) - [Trio](https://github.com/nightscout/Trio)
+* 🦾  Community member of OSAID (Open-Source Automated Insulin Delivery) - [Trio](https://github.com/nightscout/Trio), [Loop](https://github.com/LoopKit/Loop)
 * ✉️  You can contact me at [verhaar.bastiaan@gmail.com](mailto:verhaar.bastiaan@gmail.com)
 * 🚀  I'm currently working at [Scenius](https://scenius.nl)
 

@@ -28,9 +28,9 @@ I specialise myself as a full stack developer:
 
 ```txt
 TypeScript             177 hrs 21 mins       ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
-Swift                  144 hrs 31 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Swift                  146 hrs               █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
 Java                   61 hrs 35 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Other                  43 hrs 54 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Other                  43 hrs 20 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
 C#                     37 hrs 2 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 

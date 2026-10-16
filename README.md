@@ -63,11 +63,11 @@ I'm a community member of the [Open-Source Automated Insulin Delivery](https://o
 <!--START_SECTION:waka-->
 
 ```txt
-Swift                  170 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 %
-TypeScript             140 hrs 49 mins       █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-C#                     94 hrs 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Other                  29 hrs 47 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-PHP                    20 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Swift                  170 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 %
+TypeScript             140 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 %
+C#                     92 hrs 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Other                  29 hrs 47 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+PHP                    20 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
